@@ -1,0 +1,11 @@
+; Engine configuration file.
+; It's best not to edit this file manually, if possible.
+
+config_version=5
+
+[application]
+config/name="The Talisman"
+run/main_scene="res://scenes/Main.tscn"
+
+[rendering]
+quality/driver/driver_name="GLES2"
